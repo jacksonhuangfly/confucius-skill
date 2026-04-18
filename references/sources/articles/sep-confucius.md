@@ -1,0 +1,91 @@
+---
+title: "Stanford Encyclopedia of Philosophy: Confucius"
+author: "Unknown; article byline not retained in this capture"
+date: "Unknown; publication and revision dates not retained"
+url: "https://plato.stanford.edu/entries/confucius/"
+source_type: "scholarly_reference_article"
+capture_method: "auto_capture_long_extract"
+language: "en"
+rights_note: "Third-party article excerpt, not merely metadata. Copyright remains with its authors and publisher; not relicensed under this repository's MIT license."
+captured_at: "2026-04-19"
+---
+
+# Stanford Encyclopedia of Philosophy: Confucius
+
+## Source Metadata
+- Author: Unknown; article byline not retained in this capture
+- Date: Unknown; publication and revision dates not retained
+- URL: https://plato.stanford.edu/entries/confucius/
+- Source type: `scholarly_reference_article`
+- Capture method: `auto_capture_long_extract`
+- Language: `en`
+- Rights note: Third-party article excerpt, not merely metadata. Copyright remains with its authors and publisher; not relicensed under this repository's MIT license.
+
+## Why This Source Matters
+SEP helps with modern scholarly framing and limits.
+
+## Evidence Boundary
+
+This is a dated, incomplete article capture. It supports only the passages retained here, not every section named in the heading list. Verify the live byline and revision date before precise attribution. Source access does not imply permission for unrestricted reuse.
+
+## Working Focus
+- Historical context.
+- Interpretive traditions.
+- Modern critique and transfer limits.
+
+## Captured Long Extract
+
+## 1. Confucius as Chinese Philosopher and Symbol of Traditional Culture
+
+Because of the wide range of texts and traditions identified with him, choices about which version of Confucius is authoritative have changed over time, reflecting particular political and social priorities. The portrait of Confucius as philosopher is, in part, the product of a series of modern cross-cultural interactions. In Imperial China, Confucius was identified with interpretations of the classics and moral guidelines for administrators, and therefore also with training the scholar-officials that populated the bureaucracy. At the same time, he was closely associated with the transmission of the ancient sacrificial system, and he himself received ritual offerings in temples found in all major cities. By the Han (202 BCE–220 CE), Confucius was already an authoritative figure in a number of different cultural domains, and the early commentaries show that reading texts associated with him about history, ritual, and proper behavior was important to rulers. The first commentaries to the _Analects_ were written by tutors to the crown prince (e.g., Zhang Yu 張禹, d. 5 BCE), and select experts in the “Five Classics” (_Wujing_ 五經) were given scholastic positions in the government. The authority of Confucius was such that during the late Han and the following period of disunity, his imprimatur was used to validate commentaries to the classics, encoded political prophecies, and esoteric doctrines.
+
+By the Song period (960–1279), the post-Buddhist revival known as “Neo-Confucianism” anchored readings of the dialogues of Confucius to a dualism between “cosmic pattern” (_li_ 理) and “_pneumas_” (_qi_ 氣), a distinctive moral cosmology that marked the tradition off from those of Buddhism and Daoism. The Neo-Confucian interpretation of the _Analects_ by Zhu Xi 朱熹 (1130–1200) integrated the study of the _Analects_ into a curriculum based on the “Four Books” (_Sishu_ 四書) that became widely influential in China, Korea, and Japan. The pre-modern Confucius was closely associated with good government, moral education, proper ritual performance, and the reciprocal obligations that people in different roles owed each other in such contexts.
+
+When Confucius became a character in the intellectual debates of eighteenth century Europe, he became identified as China’s first philosopher. Jesuit missionaries in China sent back accounts of ancient China that portrayed Confucius as inspired by Natural Theology to pursue the good, which they considered a marked contrast with the “idolatries” of Buddhism and Daoism. Back in Europe, intellectuals read missionary descriptions and translations of Chinese literature, and writers like Gottfried Wilhelm Leibniz (1646–1716) and Nicolas-Gabriel Clerc (1726–1798) praised Confucius for his discovery of universal natural laws through reason. Enlightenment writers celebrated the moral philosophy of Confucius for its independence from the dogmatic influence of the Church. While at times he was criticized as an atheist or an advocate of despotism, many Europeans viewed Confucius as a moral philosopher whose approach was in line with rationalism and humanism.
+
+Today, many descriptions combine these several ways of positioning Confucius, but the modern interpretation of his views has been complicated by a tendency to look back on him as an emblem of the “traditional culture” of China. In the eyes of some late nineteenth and twentieth century reformers who sought to fortify China against foreign influence, the moral teachings of Confucius had the potential to play the same role that they perceived Christianity had done in the modernization of Europe and America, or serve as the basis of a more secular spiritual renewal that would transform the population into citizens of a modern nation-state. In the twentieth century, the pursuit of modernization also led to the rejection of Confucius by some reformers in the May Fourth and New Culture movements, as well as by many in the Communist Party, who identified the traditional hierarchies implicit in his social and political philosophy with the social and economic inequalities that they sought to eliminate. In these modern debates, it is not just the status of Confucius in traditional China that made him such a potent symbol. His specific association with the curriculum of the system of education of scholar-officials in the imperial government, and of traditional moral values more generally, connected him to the aspects of tradition worth preserving, or the things that held China back from modernization, depending on one’s point of view.
+
+As legacies of Confucius tied to traditional ritual roles and the pre-modern social structure were criticized by modernizers, a view of Confucius as a moral philosopher, already common in European readings, gained ascendancy in East Asia. The American-educated historian Hu Shi 胡適 (1891–1962) wrote an early influential history of Chinese philosophy, beginning with Laozi 老子 and Confucius, explicitly on the model of existing histories of Western philosophy. In it, Hu compared what he called the conservative aspect of the philosophy of Confucius to Socrates and Plato. Since at least that time, Confucius has been central to most histories of Chinese philosophy.
+
+## 2. Sources for Confucius’s Life and Thought
+
+Biographical treatments of Confucius, beginning with the “Hereditary House of Confucius” (_Kongzi shijia_ 孔子世家), a chapter of Sima Qian’s 司馬遷 (c.145–c.86 BCE) _Records of the Grand Historian_ (_Shiji_ 史記), were initially based on information from compilations of independently circulating dialogues and prose accounts. Tying particular elements of his philosophy to the life experiences of Confucius is a risky and potentially circular exercise, since many of the details of his biography were first recorded in instructive anecdotes linked to the expression of didactic messages. Nevertheless, since Sima Qian’s time, the biography of Confucius has been intimately linked with the interpretation of his philosophy, and so this section begins with a brief treatment of traditional tropes about his family background, official career, and teaching of 72 disciples, before turning to the dialogue and prose accounts upon which early biographers like Sima Qian drew.
+
+Confucius was born in the domain of Zou, in modern Shandong Province, south of the larger kingdom of Lu. A date of 551 BCE is given for his birth in the _Gongyang Commentary_ (_Gongyang zhuan_ 公羊傳) to the classic _Spring and Autumn Annals_ (_Chunqiu_ 春秋), which places him in the period when the influence of the Zhou polity was declining, and regional domains were becoming independent states. His father, who came from Lu, was descended from a noble clan that included, in Sima Qian’s telling, several people known for their modesty and ritual mastery. His father died when Confucius was a small child, leaving the family poor but with some social status, and as a young man Confucius became known for expertise in the classical ritual and ceremonial forms of the Zhou. In adulthood, Confucius travelled to Lu and began a career as an official in the employ of aristocratic families.
+
+Different sources identify Confucius as having held a large number of different offices in Lu. Entries in the _Zuo Commentary_ (_Zuozhuan_ 左傳) to the _Spring and Autumn Annals_ for 509 and 500 BCE identify him as Director of Corrections (_Sikou_ 司寇), and say he was charged with assisting the ruler with the rituals surrounding a visiting dignitary from the state of Qi, respectively. The _Mencius_ (_Mengzi_ 孟子), a text centered on a figure generally regarded as the most important early developer of the thought of Confucius, Mencius (trad. 372–289 BCE), says Confucius was Foodstuffs Scribe (_Weili_ 委吏) and Scribe in the Field (_Chengtian_ 乘田), involved with managing the accounting at the granary and keeping the books on the pasturing of different animals (11.14).[1] In the first biography, Sima Qian mentions these offices, but then adds a second set of more powerful positions in Lu including Steward (_Zai_ 宰) managing an estate in the district of Zhongdu, Minister of Works (_Sikong_ 司空), and even acting Chancellor (_Xiang_ 相). Following his departure from Lu, different stories place Confucius in the kingdoms of Wei, Song, Chen, Cai, and Chu. Sima Qian crafted these stories into a serial narrative of rulers failing to appreciate the moral worth of Confucius, whose high standards forced him to continue to travel in search of an incorrupt ruler.
+
+Late in life, Confucius left service and turned to teaching. In Sima Qian’s time, the sheer number of independently circulating texts centering on dialogues that Confucius had with his disciples led the biographer to include a separate chapter on “The arranged traditions of the disciples of Confucius” (_Zhong Ni dizi liezhuan_ 仲尼弟子列傳). His account identifies 77 direct disciples, whom Sima Qian says Confucius trained in ritual practice and the _Classic of Odes_ (_Shijing_ 詩經), _Classic of Documents_ (_Shujing_ 書經, also called _Documents of the Predecessors_ or _Shangshu_ 尚書), _Records of Ritual_ (_Liji_ 禮記) and _Classic of Music_ (_Yuejing_ 樂經). Altogether, some 3000 students received some form of this training regimen. Sima Qian’s editorial practice in systematizing dialogues was inclusive, and the fact that he was able to collect so much information some three centuries after the death of Confucius testifies to the latter’s importance in the Han period. Looked at in a different way, the prodigious numbers of direct disciples and students of Confucius, and the inconsistent accounts of the offices in which he served, may also be due to a proliferation of texts associating the increasingly authoritative figure of Confucius with divergent regional or interpretive traditions during those intervening centuries.
+
+The many sources of quotations and dialogues of Confucius, both transmitted and recently excavated, provide a wealth of materials about the philosophy of Confucius, but an incomplete sense of which materials are authoritative. The last millennium has seen the development of a conventional view that materials preserved in the twenty chapters of the transmitted _Analects_ most accurately represent Confucius’s original teachings. This derives in part from a second century CE account by Ban Gu 班固 (39–92 CE) of the composition of the _Analects_ that describes the work as having been compiled by first and second generation disciples of Confucius and then transmitted privately for centuries, making it arguably the oldest stratum of extant Confucius sources. In the centuries since, some scholars have come up with variations on this basic account, such as Liu Baonan’s 劉寳楠 (1791–1855) view in _Corrected Meanings of the Analects_ (_Lunyu zhengyi_ 論語正義) that each chapter was written by a different disciple. Recently, several centuries of doubts about internal inconsistencies in the text and a lack of references to the title in early sources were marshaled by classicist Zhu Weizheng 朱維錚 in an influential 1986 article which argued that the lack of attributed quotations from the _Analects_, and of explicit references to it, prior to the second century BCE, meant that its traditional status as the oldest stratum of the teachings of Confucius was undeserved. Since then a number of historians, including Michael J. Hunter, have systematically shown that writers started to demonstrate an acute interest in the _Analects_ only in the late second and first centuries BCE, suggesting that other Confucius-related records from those centuries should also be considered as potentially authoritative sources. Some have suggested this critical approach to sources is an attack on the historicity of Confucius, but a more reasonable description is that it is an attack on the authoritativeness of the _Analects_ that broadens and diversifies the sources that may be used to reconstruct the historical Confucius.
+
+Expanding the corpus of Confucius quotations and dialogues beyond the _Analects_, then, requires attention to three additional types of sources. First, dialogues preserved in transmitted sources like the _Records of Ritual,_ the _Elder Dai’s Records of Ritual_ (_DaDai Liji_ 大戴禮記), and Han collections like the _Family Discussions of Confucius_ (_Kongzi jiayu_ 孔子家語) contain a large number of diverse teachings. Second, quotations attached to the interpretation of passages in the classics preserved in works like the _Zuo Commentary_ to the _Spring and Autumn Annals_, or _Han’s Intertextual Commentary on the Odes_ (_Han Shi waizhuan_ 韓詩外傳) are particularly rich sources for readings of history and poetry. Finally, a number of recently archaeologically recovered texts from the Han period and before have also expanded the corpus.
+
+Newly discovered sources include three recently excavated versions of texts with parallel to the transmitted _Analects_. These are the 1973 excavation at the Dingzhou site in Hebei Province dating to 55 BCE; the 1990’s excavation of a partial parallel version at Jongbaekdong in Pyongyang, North Korea, dating to between 62 and 45 BCE; and most recently the 2011–2015 excavation of the tomb of the Marquis of Haihun in Jiangxi Province dating to 59 BCE. The Haihun excavation is particularly important because it is thought to contain the two lost chapters of what Han period sources identify as a 22-chapter version of the _Analects_ that circulated in the state of Qi, the titles of which appear to be “Understanding the Way” (_Zhi dao_ 智道) and “Questions about Jade” (_Wen yu_ 問玉). While the Haihun _Analects_ has yet to be published, the content of the lost chapters overlaps with a handful of fragments dating to the late first century BCE that were found at the Jianshui Jinguan site in Jinta county in Gansu Province in 1973. All in all, these finds confirm the sudden wide circulation of the _Analects_ in the middle of the first century BCE.
+
+Previously unknown Confucius dialogues and quotations have also been unearthed. The Dingzhou site also yielded texts given the titles “Sayings of the Ru” (_Rujiazhe yan_ 儒家者言) and “Duke Ai asked about the five kinds of righteousness” (_Aigong wen wuyi_ 哀公問五義). A significantly different text also given the name “Sayings of the Ru” was found in 1977 in a Han tomb at Fuyang in Anhui Province. Several texts dating to 168 BCE recording statements by Confucius about the _Classic of Changes_ (_Yijing_ 易經) were excavated from the Mawangdui site in Hunan Province in 1973. Additionally, a number of Warring States period dialogical texts centered on particular disciples, and a text with interpretative comments by Confucius on the _Classic of Poetry_ given the name “Confucius discusses the _Odes_” (_Kongzi shilun_ 孔子詩論), were looted from tombs in the 1990s, sold on the black market, and made their way to the Shanghai Museum. The 59 BCE tomb of the Marquis of Haihun also contains a number of previously unknown Confucius dialogues and quotations on ritual and filial piety, along with materials that overlap with sections of transmitted texts including the _Analects_, _Records of Ritual_ and the _Elder Dai’s Records of Ritual_. Another unprovenanced manuscript, now curated by Anhui University, “Zhong Ni said” (_Zhong Ni yue_ 仲尼曰) has around two dozen sayings, seven of which overlap with the modern _Analects_. Most recently, initial reports about a 2021 excavation at Wangjiazui 王家嘴 in Hubei province of an unknown number of sayings entitled “Kongzi said,” (_Kongzi yue_ 孔子曰) indicate it only partially overlaps with the _Analects_. These new finds suggest that a larger number of sayings attributed to Kongzi once circulated together, with certain ones being selected out for inclusion in works like the _Records of Ritual_ and the _Analects_.
+
+Some excavated texts, like the pre-Han period “Thicket of Sayings” (_Yucong_ 語叢) apothegms excavated at the Guodian site in Hubei Province in 1993, co
+
+[Truncated after 16000 characters to keep the repo readable.]
+
+## Extracted Headings
+
+The capture process also collected headings from omitted sections; this list is not evidence of their contents.
+
+- 1. Confucius as Chinese Philosopher and Symbol of Traditional Culture
+- 2. Sources for Confucius’s Life and Thought
+- 3. Ritual Psychology and Social Values
+- 4. Virtues and Character Formation
+- 5. The Family and the State
+
+## Distillation Note
+Use for honesty boundaries.
+
+## Traceability
+- Original URL: https://plato.stanford.edu/entries/confucius/
+- Final URL: https://plato.stanford.edu/entries/confucius/
+- HTTP status: 200
+- Content type: text/plain; charset=utf-8
+- Capture mode: `extract`
+- Captured at: 2026-04-19
